@@ -3,9 +3,8 @@
 Repositori ini adalah tempat pengumpulan tugas dan laporan praktikum Pemrograman Berorientasi Objek (PBO) berbasis Java.
 
 ## Identitas Praktikan
-Silakan ganti teks di dalam kurung siku dengan identitas Anda:
-- **Nama Lengkap:** [Isi Nama Lengkap Anda di sini]
-- **NIM:** [Isi NIM Anda di sini]
+- **Nama Lengkap:** Maysa Azhra Fauziyyah
+- **NIM:** 103132430005
 
 ## Struktur Direktori
 
